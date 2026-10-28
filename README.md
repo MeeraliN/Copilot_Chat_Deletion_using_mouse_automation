@@ -1,0 +1,1 @@
+# Copilot_Chat_Deletion_using_mouse_automation
